@@ -2,7 +2,9 @@
 
 # Wellcome on my profile !
 
-':traffic_cone:' Bio en construction ':traffic_cone:' 
+🚧 Bio en construction 🚧
+
+ 
 
 
 <!--
