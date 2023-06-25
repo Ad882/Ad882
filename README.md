@@ -2,7 +2,7 @@
 
 # Wellcome on my profile !
 
-🚧 Bio en construction 🚧
+🚧 Biography in progress...  🚧
 
  
 
