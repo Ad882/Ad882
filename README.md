@@ -1,6 +1,6 @@
-### Hi there 👋
+# Hi there 👋
 
-# Wellcome on my profile !
+### Wellcome on my profile !
 
 🚧 Biography in progress...  🚧
 
