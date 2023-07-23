@@ -2,9 +2,25 @@
 
 ### Wellcome on my profile !
 
-🚧 Biography in progress...  🚧
+<p align="center">
+   🚧 Biography in progress...  🚧
+</p>
 
- 
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ad882&hide=Makefile&layout=donut&bg_color=0d1117&text_color=c8c8ff&title_color=f2cb42&hide_border=true)
+
+
+
+
+###
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,py,mysql,html,css,vscode" />
+  </a>
+</p>
 
 
 <!--
