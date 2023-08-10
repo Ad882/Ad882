@@ -2,7 +2,14 @@
 
 ### Welcome on my profile !
 
+<p align="center">
+   🤖 Repositories about artificial intelligence:  🤖
 
+   ✍️ [Handwritten digit recognition](https://github.com/Ad882/Handwritten-digit-recognition)
+   
+</p>
+
+##
 
 <p align="center">
    🛡️ Repositories about cyber-security:  🛡️
@@ -15,8 +22,6 @@
 
 <p align="center">
    💾 Repositories about data:  💾
-
-   ✍️ [Handwritten digit recognition](https://github.com/Ad882/Handwritten-digit-recognition)
 
    🚁 [Robustness and reliability](https://github.com/Ad882/Robustness-and-reliability)
 
