@@ -25,6 +25,8 @@
 
    🚁 [Robustness and reliability](https://github.com/Ad882/Robustness-and-reliability)
 
+   🏉 [Rugby match analysis](https://github.com/Ad882/Rugby-match-analysis)
+
    🏭 [Smart CO monitoring](https://github.com/Ad882/Smart-CO-monitoring)
    
 </p>
