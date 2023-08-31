@@ -1,6 +1,10 @@
 # Bonjour👋
 
-### Welcome on my profile !
+### Welcome on my profile ! I'm a student at an engineering school in France (Toulouse).
+
+</br>
+</br>
+</br>
 
 <p align="center">
    🤖 Repositories about artificial intelligence:  🤖
@@ -40,6 +44,10 @@
 
 
 ###
+
+
+</br>
+</br>
 
 <p align="center">
   <a href="https://skillicons.dev">
