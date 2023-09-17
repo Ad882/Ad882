@@ -1,7 +1,8 @@
-# Bonjour👋
+<h1 align="center"> Bonjour👋 </h1>
 
-### Welcome on my profile ! I'm a student at an engineering school in France (Toulouse).
+</br>
 
+### Welcome on my profile! I'm a student at an engineering school in France (Toulouse).
 
 </br>
 </br>
