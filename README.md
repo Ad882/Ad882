@@ -11,7 +11,9 @@
 <p align="center">
    🤖 Repositories about artificial intelligence:  🤖
 
-   ✍️ [Handwritten digit recognition](https://github.com/Ad882/Handwritten-digit-recognition)
+   🏉 [TOP 14 ranking prediction](https://github.com/Ad882/TOP-14-s-2022---2023-ranking-prediction) 
+
+   ✍️ [Handwritten digit recognition](https://github.com/Ad882/Handwritten-digit-recognition) 
    
 </p>
 
@@ -20,7 +22,7 @@
 <p align="center">
    🛡️ Repositories about cyber-security:  🛡️
    
-   🏦 [Secure bank application](https://github.com/Ad882/Secure-bank-application)
+   🏦 [Secure bank application](https://github.com/Ad882/Secure-bank-application) 
    
 </p>
 
@@ -29,11 +31,11 @@
 <p align="center">
    💾 Repositories about data:  💾
 
-   🚁 [Robustness and reliability](https://github.com/Ad882/Robustness-and-reliability)
+   🚁 [Robustness and reliability](https://github.com/Ad882/Robustness-and-reliability) 
 
-   🏉 [Rugby match analysis](https://github.com/Ad882/Rugby-match-analysis)
+   🏉 [Rugby match analysis](https://github.com/Ad882/Rugby-match-analysis) 
 
-   🏭 [Smart CO monitoring](https://github.com/Ad882/Smart-CO-monitoring)
+   🏭 [Smart CO monitoring](https://github.com/Ad882/Smart-CO-monitoring) 
    
 </p>
 
