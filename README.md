@@ -11,7 +11,7 @@
 <p align="center">
    🤖 Repositories about artificial intelligence:  🤖
 
-   🏉 [TOP 14 ranking prediction](https://github.com/Ad882/TOP-14-s-2022---2023-ranking-prediction) 
+   🏉 [TOP 14's ranking prediction](https://github.com/Ad882/TOP-14-s-2022---2023-ranking-prediction) 
 
    ✍️ [Handwritten digit recognition](https://github.com/Ad882/Handwritten-digit-recognition) 
    
