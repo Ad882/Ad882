@@ -85,9 +85,12 @@ You will find a few personal and class projects!
   </a>
 </p>
 
+
+<!-- 
 <p align="center">
-   ![snake gif](https://github.com/Ad882/Ad882/blob/output/github-contribution-grid-snake.svg)
+   <img src="https://github.com/Ad882/Ad882/blob/output/github-contribution-grid-snake.svg" alt="snake svg">
 </p>
+--> 
 
 
 <br>
