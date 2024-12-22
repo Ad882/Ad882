@@ -9,7 +9,7 @@
 ### Welcome on my profile! 
 ### I'm an engineering student in Toulouse, France.
 - 🚀 Aerospace
-- 🧪 Data science
+- 🧪 Computer science
 
 You will find a few personal and class projects!
 
