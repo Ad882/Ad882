@@ -55,19 +55,20 @@ You will find a few personal and class projects!
 
 
 ##
-<!-- 
+
 <p align="center">
    🌠 Repositories about space:  🌠
 
-   🛰️ [Satellite passage optimization](https://github.com/Ad882/) 
-   
+   🛰️ [Satellite passage optimization](https://github.com/Ad882/reactive-covering) 
+
+   <!-- 
    🌌 [Spatial environment](https://github.com/Ad882/) 
+   -->
+
    
 </p>
 
 ##
-
---> 
 
 
 <br>
