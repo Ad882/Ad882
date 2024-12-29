@@ -34,6 +34,8 @@ You will find a few personal and class projects!
 <p align="center">
    🛡️ Repositories about cyber-security:  🛡️
    
+   🎣 [Phishing simulator](https://github.com/Ad882/phishing-simulator)
+   
    🔐 [Password Manager](https://github.com/Ad882/password-manager)
    
    🏦 [Secure bank application](https://github.com/Ad882/Secure-bank-application) 
