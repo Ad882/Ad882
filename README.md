@@ -33,10 +33,12 @@ You will find a few personal and class projects!
 
 <p align="center">
    🛡️ Repositories about cyber-security:  🛡️
+
+   🚨 [IDS](https://github.com/Ad882/network-intrusion-detection-system)
    
    🎣 [Phishing simulator](https://github.com/Ad882/phishing-simulator)
    
-   🔐 [Password Manager](https://github.com/Ad882/password-manager)
+   🔐 [Password manager](https://github.com/Ad882/password-manager)
    
    🏦 [Secure bank application](https://github.com/Ad882/Secure-bank-application) 
    
