@@ -34,7 +34,7 @@ You will find a few personal and class projects!
 <p align="center">
    🛡️ Repositories about cyber-security:  🛡️
 
-   🚨 [IDS](https://github.com/Ad882/network-intrusion-detection-system)
+   🚨 [Intrusion Detection System](https://github.com/Ad882/network-intrusion-detection-system)
    
    🎣 [Phishing simulator](https://github.com/Ad882/phishing-simulator)
    
