@@ -23,6 +23,9 @@ You will find a few personal and class projects!
 <p align="center">
    🤖 Repositories about artificial intelligence:  🤖
 
+<!-- 
+   🗣️ [Speech recognition](https://github.com/Ad882/Recurrent-Neural-Network-Acoustic-Models-for-Speech-Recognition)
+-->
    🏉 [TOP 14's ranking prediction](https://github.com/Ad882/TOP-14-s-2022---2023-ranking-prediction) 
 
    ✍️ [Handwritten digit recognition](https://github.com/Ad882/Handwritten-digit-recognition) 
